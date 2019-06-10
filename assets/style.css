@@ -17,6 +17,11 @@
   font-weight: bold;
   padding: 0 0 10px 0;
 }
+.song-details__video-message {
+  color: green;
+  font-weight: bold;
+  padding: 0 0 10px 0;
+}
 .song-details__section {
   padding: 0 0 30px 0;
 }
@@ -28,6 +33,11 @@
   background: #fffbd3;
   color: #77702c;
   padding: 5px 0;
+}
+.song-details__marker {
+  background: yellow;
+  padding: 10px;
+  margin: 0 0 30px 0;
 }
 
 .song-list > a {
